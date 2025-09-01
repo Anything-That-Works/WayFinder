@@ -1,7 +1,7 @@
 
 # WayFinder
 
-WayFinder is a powerful and flexible routing library for SwiftUI, built on top of [UIPilot](https://github.com/canopas/UIPilot) and [NavigationPilot](https://github.com/Promal-B/NavigationPilot). It simplifies navigation in your SwiftUI apps, making it easy to manage complex navigation flows with a clean and declarative API.
+WayFinder is a powerful and flexible routing library for SwiftUI, built on top of [UIPilot](https://github.com/canopas/UIPilot) and [NavigationPilot](https://github.com/Anything-That-Works/NavigationPilot.git). It simplifies navigation in your SwiftUI apps, making it easy to manage complex navigation flows with a clean and declarative API.
 
 ## Features
 
