@@ -17,7 +17,7 @@ WayFinder is a powerful and flexible routing library for SwiftUI, built on top o
 You can add WayFinder to your project using Swift Package Manager. In Xcode, go to **File > Add Packages...** and enter the following URL:
 
 ```
-[[https://github.com/your-username/WayFinder.git]()](https://github.com/Anything-That-Works/WayFinder.git)
+https://github.com/your-username/WayFinder.git
 ```
 
 ## Usage
